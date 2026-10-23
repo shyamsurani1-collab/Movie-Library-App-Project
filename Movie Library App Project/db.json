@@ -1,0 +1,137 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Sky Force",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTViYzEwYjMtMDJlNy00ZTdiLWE3YWMtN2Q3MWFiYTFjZGZmXkEyXkFqcGc@._V1_.jpg",
+      "languages": [
+        "Hindi"
+      ],
+      "description": "An Indian action film inspired by a daring air operation.",
+      "rating": 7.0,
+      "releaseDate": "2025-01-24"
+    },
+    {
+      "id": "2",
+      "title": "Inception",
+      "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "languages": [
+        "English"
+      ],
+      "description": "A thief enters people's dreams to steal information.",
+      "rating": 8.8,
+      "releaseDate": "2010-07-16"
+    },
+    {
+      "id": "3",
+      "title": "Dhurandhar",
+      "poster": "https://m.media-amazon.com/images/I/61p-Nw3tNvL._AC_UF894,1000_QL80_.jpg",
+      "languages": [
+        "Hindi"
+      ],
+      "description": "An Indian spy action thriller starring Ranveer Singh.",
+      "rating": 7.5,
+      "releaseDate": "2025-12-05"
+    },
+    {
+      "id": "4",
+      "title": "Interstellar",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "languages": [
+        "English"
+      ],
+      "description": "A team travels through space to find a new home for humanity.",
+      "rating": 8.7,
+      "releaseDate": "2014-11-07"
+    },
+    {
+      "id": "5",
+      "title": "RRR",
+      "poster": "https://image.tmdb.org/t/p/w500/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+      "languages": [
+        "Telugu",
+        "Hindi"
+      ],
+      "description": "Two legendary revolutionaries form a powerful friendship in a story of courage and rebellion.",
+      "rating": 7.8,
+      "releaseDate": "2022-03-25"
+    },
+    {
+      "id": "6",
+      "title": "The Dark Knight",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "languages": [
+        "English"
+      ],
+      "description": "Batman faces a dangerous criminal in Gotham City.",
+      "rating": 9.0,
+      "releaseDate": "2008-07-18"
+    },
+    {
+      "id": "7",
+      "title": "Total Dhamaal",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNThmNWE5NTgtNzkzNS00Y2RhLWJjOWItN2I3OTdkODJmYTU1XkEyXkFqcGc@._V1_.jpg",
+      "languages": [
+        "Hindi"
+      ],
+      "description": "A comedy adventure in which a group of people race to find a hidden treasure.",
+      "rating": 4.3,
+      "releaseDate": "2019-02-22"
+    },
+    {
+      "id": "8",
+      "title": "Avatar",
+      "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+      "languages": [
+        "English"
+      ],
+      "description": "A marine travels to Pandora and becomes part of its world.",
+      "rating": 7.9,
+      "releaseDate": "2009-12-18"
+    },
+    {
+      "id": "9",
+      "title": "Chhaava",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWI4N2Y5NWUtNzEwOC00YjYzLWEzY2ItN2YwYTIxYzBjZGZmXkEyXkFqcGc@._V1_.jpg",
+      "languages": [
+        "Hindi"
+      ],
+      "description": "A historical action drama about Chhatrapati Sambhaji Maharaj and his resistance against Aurangzeb's Mughal forces.",
+      "rating": 7.3,
+      "releaseDate": "2025-02-14"
+    },
+    {
+      "id": "10",
+      "title": "Titanic",
+      "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "languages": [
+        "English"
+      ],
+      "description": "A love story unfolds aboard the famous ocean liner.",
+      "rating": 7.9,
+      "releaseDate": "1997-12-19"
+    },
+    {
+      "id": "11",
+      "title": "Laalo",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5nU_hyjr6xrgaYNiFTurgh8fBUnPKB_kEZeJcbhIM-ZQ7ftUpndQn6d8&s=10",
+      "languages": [
+        "Gujarati"
+      ],
+      "description": "A Gujarati drama film.",
+      "rating": 7.5,
+      "releaseDate": "2024-10-25"
+    },
+    {
+      "id": "12",
+      "title": "Mission Mangal",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTEyYTAzZWYtNTdjMi00YzJiLWE5MjctZjhmNGZiNjdlNzgwXkEyXkFqcGc@._V1_.jpg",
+      "languages": [
+        "Hindi"
+      ],
+      "description": "A science drama inspired by India's Mars Orbiter Mission and the scientists who helped make it possible.",
+      "rating": 6.5,
+      "releaseDate": "2019-08-15"
+    }
+  ]
+}
