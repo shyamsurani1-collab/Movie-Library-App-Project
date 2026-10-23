@@ -15,8 +15,6 @@ A responsive movie library web application built with **React and Vite**. Users 
 
 > The screenshot below is the current project screenshot. If it shows an API error, start JSON Server and capture a fresh screenshot after the movie list loads.
 
-![Movie Library App Home Screenshot](./screenshots/movie-library-home.png)
-
 To add more screenshots, save them inside the `screenshots/` folder and link them here, for example:
 
 ## 📸 Screenshots
